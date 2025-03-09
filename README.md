@@ -63,12 +63,12 @@ You can send GET requests directly in the browser or using tools like **Postman*
 | `/sin(3.14)` | Trigonometric function |
 | `/cos(0)` | Cosine function |
 | `/tan(45)` | Tangent function |
-| `/diff(x^3, x)` | Differentiation |
-| `/integrate(x^2, x)` | Integration |
-| `/factor(x^2 - 4)` | Factorization |
+| `/diff(x**3,x)` | Differentiation |
+| `/integrate(x**2,x)` | Integration |
+| `/factor(x**2-4)` | Factorization |
 | `/expand((x-2)*(x+2))` | Expansion |
-| `/simplify((x^2 + 2*x + 1)/(x+1))` | Simplification |
-| `/limit(sin(x)/x, x, 0)` | Limit Calculation |
+| `/simplify((x**2+2*x+1)/(x+1))` | Simplification |
+| `/limit(sin(x)/x,x,0)` | Limit Calculation |
 
 ## 🛠 Bug Reports & Improvements
 Found a bug or have a feature suggestion? Feel free to open an issue on GitHub!
