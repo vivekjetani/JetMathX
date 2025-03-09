@@ -22,7 +22,7 @@ JetBrainX processes mathematical expressions through a Flask-based API, evaluate
 ### Example Usage
 #### Request:
 ```bash
-GET https://jetmathx.vercel.app/diff(x**2,x)
+https://jetmathx.vercel.app/diff(x**2,x)
 ```
 #### Response:
 ```json
